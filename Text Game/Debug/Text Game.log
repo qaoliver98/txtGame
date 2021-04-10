@@ -1,0 +1,4 @@
+﻿  Text Game.cpp
+C:\Users\njzvo\Desktop\Game\TextGameA\Text Game\Text Game.cpp(80,6): warning C4101: 'classChoice': unreferenced local variable
+C:\Users\njzvo\Desktop\Game\TextGameA\Text Game\Text Game.cpp(131,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Text Game.vcxproj -> C:\Users\njzvo\Desktop\Game\TextGameA\Debug\Text Game.exe
